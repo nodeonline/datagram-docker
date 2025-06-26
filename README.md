@@ -1,6 +1,6 @@
 ### # _Installation_
 ```
-mkdir ~/datagram-multi && cd ~/datagram-multi && wget https://raw.githubusercontent.com/nodeonline/scripts/main/setup-datagram.sh
+mkdir datagram-multi && cd datagram-multi && wget https://raw.githubusercontent.com/nodeonline/scripts/main/setup-datagram.sh
 chmod +x setup-datagram.sh
 ./setup-datagram.sh
 ```
